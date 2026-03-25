@@ -130,7 +130,7 @@ cp .env.example .env   # 填入 ANTHROPIC_API_KEY
 ## 进度追踪
 
 - [x] s01 Agent 循环
-- [ ] s02 Tool Use
+- [x] s02 Tool Use
 - [ ] s03 TodoWrite
 - [ ] s04 子智能体
 - [ ] s05 Skill 加载
