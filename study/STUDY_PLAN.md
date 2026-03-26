@@ -131,7 +131,7 @@ cp .env.example .env   # 填入 ANTHROPIC_API_KEY
 
 - [x] s01 Agent 循环
 - [x] s02 Tool Use
-- [ ] s03 TodoWrite
+- [x] s03 TodoWrite
 - [ ] s04 子智能体
 - [ ] s05 Skill 加载
 - [ ] s06 上下文压缩
