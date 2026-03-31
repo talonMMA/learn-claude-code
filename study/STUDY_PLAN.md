@@ -135,7 +135,7 @@ cp .env.example .env   # 填入 ANTHROPIC_API_KEY
 - [x] s04 子智能体
 - [x] s05 Skill 加载
 - [x] s06 上下文压缩
-- [ ] s07 任务系统
+- [x] s07 任务系统
 - [ ] s08 后台任务
 - [ ] s09 智能体团队
 - [ ] s10 团队协议
